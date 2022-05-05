@@ -1,5 +1,7 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nicolalandro/yolov5_streamlit/main)
+
 # Yolov5 Streamlit
-This codebase create a realtime web demo with streamlit.
+This codebase create a realtime web demo with streamlit. As you can see from the streamlit deploy, if you do not have a GPU you cannot be realtime.
 
 ## Develop
 ```
