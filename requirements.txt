@@ -2,3 +2,4 @@ streamlit
 streamlit_webrtc
 torch
 opencv-python
+yaml
